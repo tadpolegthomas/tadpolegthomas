@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**tadpolegthomas/tadpolegthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+#### My name is Thomas and I enjoy computers and everything to do with computing and building simple solutions for business and home users.
 
 - 🔭 I’m currently working on my MBA and coding journey.
 - 🌱 I’m currently learning more about programming in Python, JavaScript, Java, and TypeScript.
